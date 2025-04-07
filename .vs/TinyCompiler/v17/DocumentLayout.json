@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yahya\\OneDrive\\Desktop\\Tiny_Compiler\\Tiny_Compiler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|TinyCompiler\\TinyCompiler.csproj|c:\\users\\yahya\\onedrive\\desktop\\tiny_compiler\\tiny_compiler\\tinycompiler\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|TinyCompiler\\TinyCompiler.csproj|solutionrelative:tinycompiler\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|TinyCompiler\\TinyCompiler.csproj|c:\\users\\yahya\\onedrive\\desktop\\tiny_compiler\\tiny_compiler\\tinycompiler\\windowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|TinyCompiler\\TinyCompiler.csproj|solutionrelative:tinycompiler\\windowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|TinyCompiler\\TinyCompiler.csproj|C:\\Users\\yahya\\OneDrive\\Desktop\\Tiny_Compiler\\Tiny_Compiler\\tinycompiler\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|TinyCompiler\\TinyCompiler.csproj|solutionrelative:tinycompiler\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|TinyCompiler\\TinyCompiler.csproj|C:\\Users\\yahya\\OneDrive\\Desktop\\Tiny_Compiler\\Tiny_Compiler\\tinycompiler\\errors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|TinyCompiler\\TinyCompiler.csproj|solutionrelative:tinycompiler\\errors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|TinyCompiler\\TinyCompiler.csproj|C:\\Users\\yahya\\OneDrive\\Desktop\\Tiny_Compiler\\Tiny_Compiler\\tinycompiler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|TinyCompiler\\TinyCompiler.csproj|solutionrelative:tinycompiler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|TinyCompiler\\TinyCompiler.csproj|C:\\Users\\yahya\\OneDrive\\Desktop\\Tiny_Compiler\\Tiny_Compiler\\tinycompiler\\compiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|TinyCompiler\\TinyCompiler.csproj|solutionrelative:tinycompiler\\compiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Scanner.cs",
+              "DocumentMoniker": "C:\\Users\\yahya\\OneDrive\\Desktop\\Tiny_Compiler\\Tiny_Compiler\\TinyCompiler\\Scanner.cs",
+              "RelativeDocumentMoniker": "TinyCompiler\\Scanner.cs",
+              "ToolTip": "C:\\Users\\yahya\\OneDrive\\Desktop\\Tiny_Compiler\\Tiny_Compiler\\TinyCompiler\\Scanner.cs",
+              "RelativeToolTip": "TinyCompiler\\Scanner.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAowMEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T10:41:58.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowForm.cs",
+              "DocumentMoniker": "C:\\Users\\yahya\\OneDrive\\Desktop\\Tiny_Compiler\\Tiny_Compiler\\TinyCompiler\\WindowForm.cs",
+              "RelativeDocumentMoniker": "TinyCompiler\\WindowForm.cs",
+              "ToolTip": "C:\\Users\\yahya\\OneDrive\\Desktop\\Tiny_Compiler\\Tiny_Compiler\\TinyCompiler\\WindowForm.cs",
+              "RelativeToolTip": "TinyCompiler\\WindowForm.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAADwvywAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:47:22.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Parser.cs",
+              "DocumentMoniker": "C:\\Users\\yahya\\OneDrive\\Desktop\\Tiny_Compiler\\Tiny_Compiler\\TinyCompiler\\Parser.cs",
+              "RelativeDocumentMoniker": "TinyCompiler\\Parser.cs",
+              "ToolTip": "C:\\Users\\yahya\\OneDrive\\Desktop\\Tiny_Compiler\\Tiny_Compiler\\TinyCompiler\\Parser.cs",
+              "RelativeToolTip": "TinyCompiler\\Parser.cs",
+              "ViewState": "AQIAACkDAAAAAAAAAAAAAMwCAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:51:24.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Compiler.cs",
+              "DocumentMoniker": "C:\\Users\\yahya\\OneDrive\\Desktop\\Tiny_Compiler\\Tiny_Compiler\\TinyCompiler\\Compiler.cs",
+              "RelativeDocumentMoniker": "TinyCompiler\\Compiler.cs",
+              "ToolTip": "C:\\Users\\yahya\\OneDrive\\Desktop\\Tiny_Compiler\\Tiny_Compiler\\TinyCompiler\\Compiler.cs",
+              "RelativeToolTip": "TinyCompiler\\Compiler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T22:05:34.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yahya\\OneDrive\\Desktop\\Tiny_Compiler\\Tiny_Compiler\\TinyCompiler\\Program.cs",
+              "RelativeDocumentMoniker": "TinyCompiler\\Program.cs",
+              "ToolTip": "C:\\Users\\yahya\\OneDrive\\Desktop\\Tiny_Compiler\\Tiny_Compiler\\TinyCompiler\\Program.cs",
+              "RelativeToolTip": "TinyCompiler\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:52:02.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Errors.cs",
+              "DocumentMoniker": "C:\\Users\\yahya\\OneDrive\\Desktop\\Tiny_Compiler\\Tiny_Compiler\\TinyCompiler\\Errors.cs",
+              "RelativeDocumentMoniker": "TinyCompiler\\Errors.cs",
+              "ToolTip": "C:\\Users\\yahya\\OneDrive\\Desktop\\Tiny_Compiler\\Tiny_Compiler\\TinyCompiler\\Errors.cs",
+              "RelativeToolTip": "TinyCompiler\\Errors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:55:43.396Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

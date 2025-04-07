@@ -1,0 +1,40 @@
+D:\Gam3a\Year 3 cs\CT\tiny-compiler\src\TinyCompiler\obj\Debug\TinyCompiler.csproj.AssemblyReference.cache
+D:\Gam3a\Year 3 cs\CT\tiny-compiler\src\TinyCompiler\obj\Debug\TinyCompiler.WindowForm.resources
+D:\Gam3a\Year 3 cs\CT\tiny-compiler\src\TinyCompiler\obj\Debug\TinyCompiler.Properties.Resources.resources
+D:\Gam3a\Year 3 cs\CT\tiny-compiler\src\TinyCompiler\obj\Debug\TinyCompiler.csproj.GenerateResource.cache
+D:\Gam3a\Year 3 cs\CT\tiny-compiler\src\TinyCompiler\obj\Debug\TinyCompiler.csproj.CoreCompileInputs.cache
+D:\Gam3a\Year 3 cs\CT\tiny-compiler\src\TinyCompiler\bin\Debug\TinyCompiler.exe.config
+D:\Gam3a\Year 3 cs\CT\tiny-compiler\src\TinyCompiler\bin\Debug\TinyCompiler.exe
+D:\Gam3a\Year 3 cs\CT\tiny-compiler\src\TinyCompiler\bin\Debug\TinyCompiler.pdb
+D:\Gam3a\Year 3 cs\CT\tiny-compiler\src\TinyCompiler\obj\Debug\TinyCompiler.exe
+D:\Gam3a\Year 3 cs\CT\tiny-compiler\src\TinyCompiler\obj\Debug\TinyCompiler.pdb
+C:\Users\yahya\OneDrive\Desktop\tiny-compiler\tiny-compiler\src\TinyCompiler\bin\Debug\TinyCompiler.exe.config
+C:\Users\yahya\OneDrive\Desktop\tiny-compiler\tiny-compiler\src\TinyCompiler\bin\Debug\TinyCompiler.exe
+C:\Users\yahya\OneDrive\Desktop\tiny-compiler\tiny-compiler\src\TinyCompiler\bin\Debug\TinyCompiler.pdb
+C:\Users\yahya\OneDrive\Desktop\tiny-compiler\tiny-compiler\src\TinyCompiler\obj\Debug\TinyCompiler.csproj.AssemblyReference.cache
+C:\Users\yahya\OneDrive\Desktop\tiny-compiler\tiny-compiler\src\TinyCompiler\obj\Debug\TinyCompiler.WindowForm.resources
+C:\Users\yahya\OneDrive\Desktop\tiny-compiler\tiny-compiler\src\TinyCompiler\obj\Debug\TinyCompiler.Properties.Resources.resources
+C:\Users\yahya\OneDrive\Desktop\tiny-compiler\tiny-compiler\src\TinyCompiler\obj\Debug\TinyCompiler.csproj.GenerateResource.cache
+C:\Users\yahya\OneDrive\Desktop\tiny-compiler\tiny-compiler\src\TinyCompiler\obj\Debug\TinyCompiler.csproj.CoreCompileInputs.cache
+C:\Users\yahya\OneDrive\Desktop\tiny-compiler\tiny-compiler\src\TinyCompiler\obj\Debug\TinyCompiler.exe
+C:\Users\yahya\OneDrive\Desktop\tiny-compiler\tiny-compiler\src\TinyCompiler\obj\Debug\TinyCompiler.pdb
+D:\FCIS\Compiler project\Tiny_Compiler\Tiny_Compiler\TinyCompiler\bin\Debug\TinyCompiler.exe.config
+D:\FCIS\Compiler project\Tiny_Compiler\Tiny_Compiler\TinyCompiler\bin\Debug\TinyCompiler.exe
+D:\FCIS\Compiler project\Tiny_Compiler\Tiny_Compiler\TinyCompiler\bin\Debug\TinyCompiler.pdb
+D:\FCIS\Compiler project\Tiny_Compiler\Tiny_Compiler\TinyCompiler\obj\Debug\TinyCompiler.csproj.AssemblyReference.cache
+D:\FCIS\Compiler project\Tiny_Compiler\Tiny_Compiler\TinyCompiler\obj\Debug\TinyCompiler.WindowForm.resources
+D:\FCIS\Compiler project\Tiny_Compiler\Tiny_Compiler\TinyCompiler\obj\Debug\TinyCompiler.Properties.Resources.resources
+D:\FCIS\Compiler project\Tiny_Compiler\Tiny_Compiler\TinyCompiler\obj\Debug\TinyCompiler.csproj.GenerateResource.cache
+D:\FCIS\Compiler project\Tiny_Compiler\Tiny_Compiler\TinyCompiler\obj\Debug\TinyCompiler.csproj.CoreCompileInputs.cache
+D:\FCIS\Compiler project\Tiny_Compiler\Tiny_Compiler\TinyCompiler\obj\Debug\TinyCompiler.exe
+D:\FCIS\Compiler project\Tiny_Compiler\Tiny_Compiler\TinyCompiler\obj\Debug\TinyCompiler.pdb
+C:\Users\yahya\OneDrive\Desktop\Tiny_Compiler\Tiny_Compiler\TinyCompiler\bin\Debug\TinyCompiler.exe.config
+C:\Users\yahya\OneDrive\Desktop\Tiny_Compiler\Tiny_Compiler\TinyCompiler\bin\Debug\TinyCompiler.exe
+C:\Users\yahya\OneDrive\Desktop\Tiny_Compiler\Tiny_Compiler\TinyCompiler\bin\Debug\TinyCompiler.pdb
+C:\Users\yahya\OneDrive\Desktop\Tiny_Compiler\Tiny_Compiler\TinyCompiler\obj\Debug\TinyCompiler.csproj.AssemblyReference.cache
+C:\Users\yahya\OneDrive\Desktop\Tiny_Compiler\Tiny_Compiler\TinyCompiler\obj\Debug\TinyCompiler.WindowForm.resources
+C:\Users\yahya\OneDrive\Desktop\Tiny_Compiler\Tiny_Compiler\TinyCompiler\obj\Debug\TinyCompiler.Properties.Resources.resources
+C:\Users\yahya\OneDrive\Desktop\Tiny_Compiler\Tiny_Compiler\TinyCompiler\obj\Debug\TinyCompiler.csproj.GenerateResource.cache
+C:\Users\yahya\OneDrive\Desktop\Tiny_Compiler\Tiny_Compiler\TinyCompiler\obj\Debug\TinyCompiler.csproj.CoreCompileInputs.cache
+C:\Users\yahya\OneDrive\Desktop\Tiny_Compiler\Tiny_Compiler\TinyCompiler\obj\Debug\TinyCompiler.exe
+C:\Users\yahya\OneDrive\Desktop\Tiny_Compiler\Tiny_Compiler\TinyCompiler\obj\Debug\TinyCompiler.pdb
